@@ -1,0 +1,9 @@
+Olá a todos!
+
+Pessoal, se fosse para criar um canal no YouTube mais com a intensão de falar sobre programação, qual dos conteúdos vocês postariam?
+
+1ª Desenvolvimento WEB
+2ª Automação
+3ª Criação de ChatterBot
+4ª Desenvolvimento Desktop
+5ª Falar de tudo um pouco 
